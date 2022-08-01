@@ -12,6 +12,7 @@ start:
     MOV EAX, 1  ; select always for next iterations.
     int 80h
 
+    ; :D <( work ) zZzZzZzZ
 section .data
 
 ; create an variables.
